@@ -1,3 +1,7 @@
+---
+layout: single
+title:  "GitHub 프로필 꾸미기"
+---
 # GitHub 프로필 꾸미기
 
 1. 우선 GitHub에 가입을 한다.
