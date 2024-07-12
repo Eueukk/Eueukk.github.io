@@ -10,19 +10,19 @@ title:  "GitHub 프로필 꾸미기"
     
     ![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-13-GitHub%20Profile%20Decoration%20Img/Untitled.png)
     
-3. Repository name에 본인 GitHub 아이디를 입력한다. (그럼 바로 하단에 문구가 뜬다)
+3. Repository name에 본인 GitHub 아이디를 입력한다. (그럼 바로 하단에 문구가 뜬다)<br>
 Public에 체크하고 Add a README file에도 체크, 이 후 Create repository
     
     ![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-13-GitHub%20Profile%20Decoration%20Img/Untitled%201.png)
     
-4. 다시 본인 프로필 화면으로 가면 README 파일이 추가 된 것을 알 수 있다. 
-이 파일을 채워 넣으면 멋진 프로필을 만들 수 있다.
+4. 다시 본인 프로필 화면으로 가면 README 파일이 추가 된 것을 알 수 있다.<br>
+이 파일을 채워 넣으면 멋진 프로필을 만들 수 있다.<br>
 우측에 연필(Edit)버튼을 누르면 해당 README 파일을 수정 할 수 있다. 
     
     ![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-13-GitHub%20Profile%20Decoration%20Img/Untitled%202.png)
     
-5. 처음에는 추천 문구들이 떠있는 것을 볼 수 있다.
-README 파일은 마크다운 언어를 기준으로 한다.
+5. 처음에는 추천 문구들이 떠있는 것을 볼 수 있다.<br>
+README 파일은 마크다운 언어를 기준으로 한다.<br>
 본인이 이쁘게 꾸며도 되지만 꾸미는 것을 도와주는 사이트를 이용해 보자.
     
     [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
@@ -32,7 +32,7 @@ README 파일은 마크다운 언어를 기준으로 한다.
     
     ![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-13-GitHub%20Profile%20Decoration%20Img/Untitled%204.png)
     
-6. 붙여넣기 후 align(정렬) 부분이 처음에는 Center로 되어있는데 left로 바꿔서 깔끔하게 해준다.
+6. 붙여넣기 후 align(정렬) 부분이 처음에는 Center로 되어있는데 left로 바꿔서 깔끔하게 해준다.<br>
 commit changes 버튼을 눌러준다. 프로필로 가보면 잘 되어있는 것을 볼 수 있다.
     
     ![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-13-GitHub%20Profile%20Decoration%20Img/Untitled%205.png)
