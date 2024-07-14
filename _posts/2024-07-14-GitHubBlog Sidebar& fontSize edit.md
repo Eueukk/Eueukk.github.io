@@ -52,4 +52,4 @@ title:  "GitHub 좌우 여백 및 폰트 크기 조절"
 
     ![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-14-GitHubBlog%20Sidebar%26%20fontSize%20edit%20Img/Untitled%204.png)
 
-아직 꾸며야 할 게 많지만, 포스팅 겸 열심히 해보도록 하겠습니다.
+아직 꾸며야 할 게 많은데 포스팅 겸 열심히 해보도록 하겠습니다.
