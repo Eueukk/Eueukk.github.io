@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "GitHub 좌우 여백및 폰트 크기 조절"
 ---
 
