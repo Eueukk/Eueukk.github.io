@@ -3,22 +3,7 @@ layout: single
 title:  "GitHub 좌우 여백 및 폰트 크기 조절"
 ---
 
-```
-<style>
-.custom-heading {
-  background-color: black;
-  color: white;
-  padding: 10px;
-}
-
-.full-width-underline {
-  width: 100%;
-  height: 2px;
-  background-color: #1E90FF; /* Dodger Blue */
-  margin-top: 10px; /* 제목과 밑줄 사이의 간격 */
-}
-</style>
-```
+{% include custom-styles.html %}
 
 <h3 class="custom-heading">폰트 크기 조절</h3>
 <div class="full-width-underline"></div>
