@@ -18,7 +18,7 @@ title:  "GitHub 좌우 여백 및 폰트 크기 조절"
 }
 </style>
 
-### <span class="custom-heading">폰트 크기 조절</span>
+### <div class="custom-heading">폰트 크기 조절</div>
 <div class="full-width-underline"></div>
 
 1. `_sass/minimal-mistakes/_reset.scss`로 이동 후 Edit(연필 모양)을 누른다.
