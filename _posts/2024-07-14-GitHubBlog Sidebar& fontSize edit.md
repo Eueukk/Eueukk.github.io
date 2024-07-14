@@ -1,4 +1,7 @@
-# GitHub 좌우 여백및 폰트크기 조절
+---
+layout: single
+title:  "GitHub 프로필 꾸미기"
+---
 
 ### 폰트 크기 조절
 
