@@ -3,6 +3,7 @@ layout: single
 title:  "GitHub 좌우 여백 및 폰트 크기 조절"
 ---
 
+```
 <style>
 .custom-heading {
   background-color: black;
@@ -17,6 +18,7 @@ title:  "GitHub 좌우 여백 및 폰트 크기 조절"
   margin-top: 10px; /* 제목과 밑줄 사이의 간격 */
 }
 </style>
+```
 
 ### <div class="custom-heading">폰트 크기 조절</div>
 <div class="full-width-underline"></div>
