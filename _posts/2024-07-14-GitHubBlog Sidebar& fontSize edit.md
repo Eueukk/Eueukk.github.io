@@ -8,22 +8,20 @@ title:  "GitHub 좌우 여백및 폰트 크기 조절"
   background-color: black;
   color: white;
   padding: 10px;
-  position: relative;
 }
 
-.custom-heading::after {
-  content: "";
-  display: block;
+.full-width-underline {
   width: 100%;
   height: 2px;
-  background-color: white;
-  position: absolute;
-  bottom: 0;
-  left: 0;
+  background-color: #1E90FF; /* Dodger Blue */
+  margin-top: 10px; /* 제목과 밑줄 사이의 간격 */
 }
 </style>
 
-### <span class="custom-heading">폰트 크기 조절</span><br>
+
+###<div class="custom-heading">폰트 크기 조절</div>
+<div class="full-width-underline"></div>
+
 
 1. _sass / minimal-mistakes / _reset.scss로 이동 후 Edit(연필모양)을 누른다.
 
@@ -36,7 +34,8 @@ title:  "GitHub 좌우 여백및 폰트 크기 조절"
     - `$x-large`: 1200px 이상 (와이드 스크린)
 3. 알맞게 각각 설정 해주고 Commit Change.(전부 같은 크기로 해도 상관 없다)<br>
 
-### <span class="custom-heading">좌우 여백 조절</span><br>
+###<div class="custom-heading">좌우 여백 조절</div>
+<div class="full-width-underline"></div>
 
 **1. _sass/minimal-mistakes/_variables.scss로 이동 후 수정한다.**
 
