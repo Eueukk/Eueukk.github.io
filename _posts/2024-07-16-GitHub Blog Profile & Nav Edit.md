@@ -39,6 +39,7 @@ title:  "GitHub 상단 네비게이션바 목록 및 디자인 수정, 프로필
   padding: 20px;
   border-radius: 10px;
   border: 1px solid #ddd;
+  color: darkgray;
 }
 </style>
 
