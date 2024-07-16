@@ -48,19 +48,19 @@ title:  "GitHub 상단 네비게이션바 목록 및 디자인 수정, 프로필
 <div class="step">
 1. /_data/navigation.yml 이동 후 우측에 Edit this file을 누르고 편집으로 이동
 
-![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled.png)
+<img src="https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled.png" alt="Edit navigation file">
 </div>
 
 <div class="step">
 2. 원하는 상단 네비게이션 목록을 작성해준다. 'title'은 보여지는 목록의 이름이고 'url'은 목록 클릭시 이동되는 url이다.
 
-![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%201.png)
+<img src="https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%201.png" alt="Navigation list example">
 </div>
 
 <div class="step">
 3. commit change 후, 잘 되었는지 확인해본다.
 
-![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%202.png)
+<img src="https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%202.png" alt="Commit changes">
 </div>
 
 ### <span class="custom-heading">상단 네비게이션바 디자인 수정</span>
@@ -77,7 +77,7 @@ title:  "GitHub 상단 네비게이션바 목록 및 디자인 수정, 프로필
 <div class="step">
 1. 사용할 프로필 이미지를 assets 폴더에 images 폴더를 새로 만든 후 넣어둔다
 
-![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%203.png)
+<img src="https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%203.png" alt="Add profile image">
 </div>
 
 <div class="step">
@@ -88,20 +88,20 @@ title:  "GitHub 상단 네비게이션바 목록 및 디자인 수정, 프로필
    - bio: 간단한 소개를 입력합니다.
    - location: 위치를 입력해줍니다.
 
-![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%204.png)
+<img src="https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%204.png" alt="Edit site author details">
 </div>
 
 <div class="step">
 4. /_sass/minimal-mistakes/sidebar.scss 이동 후 우측에 편집(Edit this File)
 5. 프로필 사진의 CSS를 수정
 
-![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%205.png)
+<img src="https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%205.png" alt="Edit profile photo CSS">
 </div>
 
 <div class="step">
 6. 프로필 수정이 잘됐는지 확인
 
-![Untitled](https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%206.png)
+<img src="https://github.com/Eueukk/Eueukk.github.io/raw/master/_posts/2024-07-16-GitHub%20Blog%20Profile%20%26%20Nav%20Edit%20Img/Untitled%206.png" alt="Check profile update">
 </div>
 
 <div class="footer-note">
