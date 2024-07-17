@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "GitHub 상단 네비게이션바 목록 및 디자인 수정, 프로필 사진 디자인 수정"
+title:  "GitHub 블로그 상단 네비게이션바 목록 및 디자인 수정, 프로필 사진 디자인 수정"
 ---
 
 <style>
