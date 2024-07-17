@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "GitHub 프로필 꾸미기"
+title:  "GitHub 블로그 프로필 꾸미기"
 ---
 
 1. 우선 GitHub에 가입을 한다.
