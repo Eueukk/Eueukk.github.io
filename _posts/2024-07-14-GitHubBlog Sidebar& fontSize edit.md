@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "GitHub 좌우 여백 및 폰트 크기 조절"
+title:  "GitHub 블로그 좌우 여백 및 폰트 크기 조절"
 ---
 
 <style>
